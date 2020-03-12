@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SMatch</string>
+    <string name="Drawer_Open">Open</string>
+    <string name="Drawer_Close">Close</string>
+    <string name="home">Home</string>
+    <string name="friends">Friends</string>
+    <string name="trang_ch">Trang Chủ</string>
+    <string name="b_n_b">Bạn Bè</string>
+    <string name="t_m_b_n">Tìm Bạn</string>
+    <string name="tin_nh_n">Tin Nhắn</string>
+    <string name="c_i_t">Cài Đặt</string>
+    <string name="ng_xu_t">Đăng Xuất</string>
+    <string name="s_n_b_ng">Sân Bóng</string>
+    <string name="tr_c_ti_p">Trực Tiếp</string>
+</resources>

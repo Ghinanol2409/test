@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_post"
+        android:title="Bài Viết"
+        android:icon="@drawable/add_post"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Cá Nhân"
+        android:icon="@drawable/profile_icon"/>
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/trang_ch"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/nav_match"
+        android:title="@string/s_n_b_ng"
+        android:icon="@drawable/stadium"/>
+
+    <item
+        android:id="@+id/nav_live"
+        android:title="@string/tr_c_ti_p"
+        android:icon="@drawable/live"/>
+
+    <item
+        android:id="@+id/nav_friends"
+        android:title="@string/b_n_b"
+        android:icon="@drawable/friends"/>
+
+    <item
+        android:id="@+id/nav_find_friends"
+        android:title="@string/t_m_b_n"
+        android:icon="@drawable/find_people"/>
+
+    <item
+        android:id="@+id/nav_messeges"
+        android:title="@string/tin_nh_n"
+        android:icon="@drawable/messages"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/c_i_t"
+        android:icon="@drawable/settings"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/ng_xu_t"
+        android:icon="@drawable/logout"/>
+
+</menu>

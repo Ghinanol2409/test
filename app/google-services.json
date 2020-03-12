@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10815951067",
+    "firebase_url": "https://haiz-3fd1e.firebaseio.com",
+    "project_id": "haiz-3fd1e",
+    "storage_bucket": "haiz-3fd1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10815951067:android:dc13c987c95cb9d2f8bcfe",
+        "android_client_info": {
+          "package_name": "com.example.haiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10815951067-8a8fm02beq0kg9vuto9lsic5vu4spkgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haiz",
+            "certificate_hash": "0f388e0cd466d64313d05a594b799702ba579551"
+          }
+        },
+        {
+          "client_id": "10815951067-ac7cndgnr5q5sb49qglmpai93f5abpds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqU5BYDKCaW24qwmNClQeXfXe6p8QjYhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10815951067-ac7cndgnr5q5sb49qglmpai93f5abpds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
